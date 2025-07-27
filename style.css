@@ -422,7 +422,7 @@ section.visible {
 .about-text {
     flex: 1;
     opacity: 1;
-    transform: translateX(-30px);
+    transform: translateX(1px);
     transition: opacity 0.8s ease, transform 0.8s ease;
 }
 
