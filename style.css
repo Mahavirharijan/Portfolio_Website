@@ -548,7 +548,7 @@ section.visible {
 }
 
 .project-card:hover .project-type {
-    background: rgba(108, 99, 255, 0.3);
+    background: rgb(255, 255, 255);
     transform: translateY(-3px);
 }
 
@@ -694,7 +694,7 @@ section.visible {
 }
 
 .timeline-content:hover .date {
-    background: rgba(108, 99, 255, 0.3);
+    background: rgb(255, 255, 255);
     transform: translateY(-3px);
 }
 
